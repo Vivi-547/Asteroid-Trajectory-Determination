@@ -1,1 +1,2 @@
 # Asteroid-Trajectory-Determination
+This project implements a Python-based tool to calculate asteroid trajectories and orbital elements from observations. It predicts parameters like semi-major axis, eccentricity, and inclination, with light-time corrections and angular momentum calculations. Keplerian mechanics are used to determine the true and eccentric anomalies for precise orbit determination.
